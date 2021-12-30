@@ -6,7 +6,7 @@
 Data: 2020년 이후 네이버 뉴스 기사 중 '기업 사회 책임'을 keyword 로 크롤링
 
 ![image](https://user-images.githubusercontent.com/79688191/147721904-a5115b0d-b26a-474e-9c45-315f57fa3859.png)
-(Github에는 용량 문제로 일부 데이터(1000개)만 수록)
+(Github에는 용량 문제로 일부 데이터만 업로드하였음)
 
 ESG 관련 기사는 1, 일반 기사는 0으로 labeling 후 BERT 기반 학습
 
