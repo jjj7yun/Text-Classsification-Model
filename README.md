@@ -14,8 +14,7 @@ ESG 관련 기사는 1, 일반 기사는 0으로 labeling 후 BERT 기반 학습
 ![image](https://user-images.githubusercontent.com/79688191/147721942-091deb48-339e-4b83-99c5-4e7eabe63beb.png)
 ![image](https://user-images.githubusercontent.com/79688191/147721975-cec450b3-e76c-4da7-9651-49c656660582.png)
 
-제목만을 가지고 91%의 정확도로 뉴스 분류 가능
-
+뉴스 제목 만으로 정확도 91% 분류 성능을 보임
 
 
 ### KoBERT
