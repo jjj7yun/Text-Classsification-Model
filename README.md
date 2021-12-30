@@ -14,3 +14,10 @@ ESG 관련 기사는 1, 일반 기사는 0으로 labeling 후 BERT 기반 학습
 ![image](https://user-images.githubusercontent.com/79688191/147721975-cec450b3-e76c-4da7-9651-49c656660582.png)
 
 제목만을 가지고 91%의 정확도로 뉴스 분류 가능
+
+
+
+### KoBERT
+:훈련용 폴더
+텍스트 분류 모델 생성을 위해 학습한 KoBERT 모델
+트위터 크롤링 및 전처리 코드와 모델 생성 이전 연습했던 네이버 댓글 분류 모델링 포함
